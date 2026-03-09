@@ -1,6 +1,4 @@
-Here's an updated version of your profile with 2026 best practices, incorporating modern trends, better SEO optimization, and improved engagement features:
 
-```markdown
 # 🚀 **SHAHID** - Full Stack Architect & AI Integration Specialist
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -11,12 +9,12 @@ Here's an updated version of your profile with 2026 best practices, incorporatin
 
 🏆 **Featured Achievement:** Successfully deployed 15+ production-grade applications with 99.9% uptime
 
----
+
 
 ## 🧠 **Core Competencies**
 
 ### **Modern Web Development**
-```javascript
+
 const expertise = {
   frontend: ['React 19', 'Next.js 15', 'TypeScript 5.x', 'Tailwind CSS v4'],
   backend: ['Node.js 22', 'Python 3.13', 'Laravel 12', 'GraphQL'],
@@ -24,7 +22,7 @@ const expertise = {
   ai_ml: ['LangChain', 'OpenAI GPT-4o', 'Claude 3.5', 'TensorFlow 2.16'],
   devops: ['Docker', 'Kubernetes', 'AWS Lambda', 'GitHub Actions']
 };
-```
+
 
 ### 🛠️ **Tech Stack 2026**
 
